@@ -9,5 +9,5 @@ public class DataMagnetApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DataMagnetApplication.class, args);
 	}
-
+//
 }
